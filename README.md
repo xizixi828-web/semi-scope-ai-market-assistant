@@ -1,31 +1,3 @@
-Last login: Sun Aug  2 17:41:16 on ttys000
-cd /Users/xixizi/Documents/Codex/2026-07-27/ni-x/outputs && /usr/bin/vim /Users/xixizi/Documents/Codex/2026-07-27/ni-x/outputs/README.md
-xixizi@xixizideMacBook-Air ~ % cd /Users/xixizi/Documents/Codex/2026-07-27/ni-x/outputs && /usr/bin/vim /Users/xixizi/Documents/Codex/2026-07-27/ni-x/outputs/README.md
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 # SEMI SCOPE｜芯片市场 AI 助理
 
 > 面向芯片行业市场团队的市场情报、会议监测、活动策划与数据复盘一体化 AI 工作台。
